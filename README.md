@@ -16,7 +16,7 @@ You can install them using pip:
 pip install opencv-python numpy screen_brightness_control
 ```
 
-You also need to download the light detection model from this [link](https://github.com/alireza-ebrahimi-ai/light-detection-model) and save it in the same folder as the script.
+You also need to download the light detection model from this [link](https://github.com/alireza-ebrahimi-ai/webcam-brightness-controller) and save it in the same folder as the script.
 
 ## Usage 🚀
 
